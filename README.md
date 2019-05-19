@@ -3,6 +3,6 @@
 ## Installation
 
 ```bash
-omf repositories add https://github.com/benkeil/fish
+omf repositories add https://github.com/benkeil/fish-repository
 omf update
 ```
